@@ -13,6 +13,8 @@ namespace Hello_World
             Console.WriteLine("Hello World");
             Console.ReadKey();
             Console.WriteLine("This is my first hello world project!");
+
+              Console.WriteLine("This is my first hello world project!");
         }
     }
 }
